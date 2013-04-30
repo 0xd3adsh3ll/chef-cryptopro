@@ -1,5 +1,5 @@
-maintainer       "Example Com"
-maintainer_email "ops@example.com"
+maintainer       "CodeInside"
+maintainer_email "maxifromhell@gmail.com"
 license          "Apache 2.0"
 description      "Installs/Configures cryptopro"
 
