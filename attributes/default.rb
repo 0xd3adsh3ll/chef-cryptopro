@@ -1,0 +1,8 @@
+default[:cryptopro][:serial_number] = ""
+default[:cryptopro][:org_name] = ""
+default[:cryptopro][:keys_dir] = "/var/CPROcsp/"
+default[:cryptopro][:url] = "http://www.ic-dv.ru/files/TAXCOM/Soft/jcp_plus_jtls_1_0_53.zip"
+default[:cryptopro][:tmp_dir] = "/tmp"
+default[:cryptopro][:filename] = "JCP.zip"
+default[:cryptopro][:install_dir] = "/opt/JCP/"
+default[:cryptopro][:version] = "jcp.1.0.53"
